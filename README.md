@@ -14,4 +14,4 @@
 # Step 5:
 ![Alt text](https://github.com/Oqtay023/cyber-5/blob/main/step5.png?raw=true)
 # Step 6:
-![Alt text]()
+![Alt text](https://raw.githubusercontent.com/Oqtay023/cyber-5/6e5859ff2f639b68c998c0274e851f1f74324a0b/STEP%206.png)
